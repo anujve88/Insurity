@@ -1,0 +1,104 @@
+[General]
+Type=TruClientWeb
+DefaultCfg=default.cfg
+MajorVersion=12
+MinorVersion=60
+ParameterFile=
+GlobalParameterFile=
+NewFunctionHeader=1
+LastActiveAction=Action
+DevelopTool=Vugen
+LastModifyVer=12.60.0.971
+ActiveTypes=TruClientWeb
+AdditionalTypes=TruClientWeb
+GenerateTypes=TruClientWeb
+ParamLeftBrace={
+ParamRightBrace=}
+ScriptLanguage=C
+RunType=cci
+LastCodeGenerationVer=12.53.0.1203
+DisableRegenerate=0
+Description=
+ScriptLocale=en-US
+Encoding=
+[Actions]
+vuser_init=vuser_init.c
+Lib-View=Lib-View.c
+Action=Action.c
+vuser_end=vuser_end.c
+[VisibleActions]
+Lib-View=1
+vuser_init=1
+Action=1
+vuser_end=1
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[RunLogicFiles]
+Default Profile=default.usp
+[ExtraFiles]
+C-functions.c=
+globals.h=
+JS-functions.js=
+[Interpreters]
+vuser_init=no
+Lib-View=no
+Action=no
+vuser_end=no
+[Recorded Actions]
+vuser_init=0
+Lib-View=1
+Action=0
+vuser_end=0
+[Modified Actions]
+vuser_init=0
+Lib-View=0
+Action=0
+vuser_end=0
+[Replayed Actions]
+vuser_init=1
+Lib-View=1
+Action=1
+vuser_end=1
+[TransactionsOrder]
+Order="Orchid_001_New_Submission - 01 - Navigate to Orchid PERF__*delimiter*__Orchid_001_New_Submission - 02 - Login to Orchid PERF__*delimiter*__Orchid_001_New_Submission - 03 - Click on Create New Quote__*delimiter*__Orchid_001_New_Submission - 04 - Select Agency__*delimiter*__Orchid_001_New_Submission - 05 - Select Totally New Client__*delimiter*__Orchid_001_New_Submission - 06 - Click Save on Eligibility and Coverage Screen__*delimiter*__Orchid_001_New_Submission - 07 - Click Next on Elibility and Coverage Screen__*delimiter*__Orchid_001_New_Submission - 08 - Click Save on General Information Screen__*delimiter*__Orchid_001_New_Submission - 09 - Click Next on General Information Screen__*delimiter*__Orchid_001_New_Submission - 10 - Click Add on Location Grid__*delimiter*__Orchid_001_New_Submission - 11 - Click Save and Close on Location Information Modal__*delimiter*__Orchid_001_New_Submission - 12 - Click Save on Location Screen__*delimiter*__Orchid_001_New_Submission - 13 - Click Next on Location Screen__*delimiter*__Orchid_001_New_Submission - 14 - Click Add on Building Screen__*delimiter*__Orchid_001_New_Submission - 15 - Click Save and Close on Building Information Tab__*delimiter*__Orchid_001_New_Submission - 16 - Click Save on Buildings Screen__*delimiter*__Orchid_001_New_Submission - 17 - Click Next on Buildings Screen__*delimiter*__Orchid_001_New_Submission - 18 - Click Add on Schedule of Hazards to add class code__*delimiter*__Orchid_001_New_Submission - 19 - Click Save and Close on Schedule of Hazards Modal__*delimiter*__Orchid_001_New_Submission - 20 - Click Save on General Liability Screen__*delimiter*__Orchid_001_New_Submission - 21 - Click Next on General Liability Screen__*delimiter*__Orchid_001_New_Submission - 22 - Click Save on Optional Coverages Screen__*delimiter*__Orchid_001_New_Submission - 23 - Click Next on Optional Coverages Screen__*delimiter*__Orchid_001_New_Submission - 24 - Click Save on General Underwriting Questions__*delimiter*__Orchid_001_New_Submission - 25 - Click Next on General Underwriting Questions__*delimiter*__Orchid_001_New_Submission - 26 - Click Save on Quote Summary Screen (Integration call - Query License)__*delimiter*__Orchid_001_New_Submission - 27 - Click Next on Quote Summary Screen__*delimiter*__Orchid_001_New_Submission - 28 - Click Next on Request To Bind Screen__*delimiter*__Orchid_001_New_Submission - 29 - Click Save on Referral Management Screen__*delimiter*__Orchid_001_New_Submission - 30 - Click Next on Referral management Screen__*delimiter*__Orchid_001_New_Submission - 30 - Click on Issue Quote__*delimiter*__Orchid_001_New_Submission - 31 - Click Bind__*delimiter*__Orchid_001_New_Submission - 32 - Click Log off"
+[StateManagement]
+LastReplayStatus=1
+[ActiveReplay]
+LastReplayedRunName=result1
+ActiveRunName=
+[Transactions]
+"Orchid_001_New_Submission - 01 - Navigate to Orchid PERF"=
+"Orchid_001_New_Submission - 02 - Login to Orchid PERF"=
+"Orchid_001_New_Submission - 03 - Click on Create New Quote"=
+"Orchid_001_New_Submission - 04 - Select Agency"=
+"Orchid_001_New_Submission - 05 - Select Totally New Client"=
+"Orchid_001_New_Submission - 06 - Click Save on Eligibility and Coverage Screen"=
+"Orchid_001_New_Submission - 07 - Click Next on Elibility and Coverage Screen"=
+"Orchid_001_New_Submission - 08 - Click Save on General Information Screen"=
+"Orchid_001_New_Submission - 09 - Click Next on General Information Screen"=
+"Orchid_001_New_Submission - 10 - Click Add on Location Grid"=
+"Orchid_001_New_Submission - 11 - Click Save and Close on Location Information Modal"=
+"Orchid_001_New_Submission - 12 - Click Save on Location Screen"=
+"Orchid_001_New_Submission - 13 - Click Next on Location Screen"=
+"Orchid_001_New_Submission - 14 - Click Add on Building Screen"=
+"Orchid_001_New_Submission - 15 - Click Save and Close on Building Information Tab"=
+"Orchid_001_New_Submission - 16 - Click Save on Buildings Screen"=
+"Orchid_001_New_Submission - 17 - Click Next on Buildings Screen"=
+"Orchid_001_New_Submission - 18 - Click Add on Schedule of Hazards to add class code"=
+"Orchid_001_New_Submission - 19 - Click Save and Close on Schedule of Hazards Modal"=
+"Orchid_001_New_Submission - 20 - Click Save on General Liability Screen"=
+"Orchid_001_New_Submission - 21 - Click Next on General Liability Screen"=
+"Orchid_001_New_Submission - 22 - Click Save on Optional Coverages Screen"=
+"Orchid_001_New_Submission - 23 - Click Next on Optional Coverages Screen"=
+"Orchid_001_New_Submission - 24 - Click Save on General Underwriting Questions"=
+"Orchid_001_New_Submission - 25 - Click Next on General Underwriting Questions"=
+"Orchid_001_New_Submission - 26 - Click Save on Quote Summary Screen (Integration call - Query License)"=
+"Orchid_001_New_Submission - 27 - Click Next on Quote Summary Screen"=
+"Orchid_001_New_Submission - 28 - Click Next on Request To Bind Screen"=
+"Orchid_001_New_Submission - 29 - Click Save on Referral Management Screen"=
+"Orchid_001_New_Submission - 30 - Click Next on Referral management Screen"=
+"Orchid_001_New_Submission - 30 - Click on Issue Quote"=
+"Orchid_001_New_Submission - 31 - Click Bind"=
+"Orchid_001_New_Submission - 32 - Click Log off"=

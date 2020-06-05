@@ -1,0 +1,2 @@
+t=00148399ms: Error -205177: ** 201: Select $25,000 / $25,000 from listbox (17) listbox ** failed - runtime error:
+	'Text': The specified value ("$25,000 / $25,000") is invalid       Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]	[MsgId: MERR-205177]

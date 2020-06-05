@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>Orchid_SBC_NB_PERF_Chrome_001</ScriptName>
+  <Protocol>TruClient - Web</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Lib-View.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="Orchid_SBC_NB_PERF_Chrome_001.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="C-functions.c" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="JS-functions.js" Filter="2" />
+    <FileEntry Name="default.xml" Filter="2" />
+    <FileEntry Name="TC.xsl" Filter="2" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="2" />
+    <FileEntry Name="profiles\" Filter="2" />
+    <FileEntry Name="combined_67.c" Filter="2" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="default.cfg.bak" Filter="1" />
+    <FileEntry Name="interactive_replay_Chromium.txt" Filter="1" />
+    <FileEntry Name="interactive_replay_Firefox.txt" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv0pj.167.log" Filter="1" />
+    <FileEntry Name="mdrv43D.903.log" Filter="1" />
+    <FileEntry Name="mdrv47k.45.log" Filter="1" />
+    <FileEntry Name="mdrv4BG.289.log" Filter="1" />
+    <FileEntry Name="mdrv5Sf.89.log" Filter="1" />
+    <FileEntry Name="mdrv6gw.505.log" Filter="1" />
+    <FileEntry Name="mdrv8Jx.825.log" Filter="1" />
+    <FileEntry Name="mdrvAKr.349.log" Filter="1" />
+    <FileEntry Name="mdrvdLF.43.log" Filter="1" />
+    <FileEntry Name="mdrvEem.975.log" Filter="1" />
+    <FileEntry Name="mdrvGNO.723.log" Filter="1" />
+    <FileEntry Name="mdrvGuy.389.log" Filter="1" />
+    <FileEntry Name="mdrvh3n.541.log" Filter="1" />
+    <FileEntry Name="mdrvhtf.111.log" Filter="1" />
+    <FileEntry Name="mdrvkj2.47.log" Filter="1" />
+    <FileEntry Name="mdrvLCi.495.log" Filter="1" />
+    <FileEntry Name="mdrvLNy.25.log" Filter="1" />
+    <FileEntry Name="mdrvmvo.173.log" Filter="1" />
+    <FileEntry Name="mdrvQ5N.509.log" Filter="1" />
+    <FileEntry Name="mdrvrh6.613.log" Filter="1" />
+    <FileEntry Name="mdrvRiW.563.log" Filter="1" />
+    <FileEntry Name="mdrvSeY.877.log" Filter="1" />
+    <FileEntry Name="mdrvT2d.385.log" Filter="1" />
+    <FileEntry Name="mdrvtJH.787.log" Filter="1" />
+    <FileEntry Name="mdrvutn.783.log" Filter="1" />
+    <FileEntry Name="mdrvv1P.395.log" Filter="1" />
+    <FileEntry Name="mdrvVL7.431.log" Filter="1" />
+    <FileEntry Name="mdrvvxD.109.log" Filter="1" />
+    <FileEntry Name="mdrvWDG.525.log" Filter="1" />
+    <FileEntry Name="mdrvY3Y.77.log" Filter="1" />
+    <FileEntry Name="mdrvyCc.991.log" Filter="1" />
+    <FileEntry Name="mdrvZb4.969.log" Filter="1" />
+    <FileEntry Name="mdrvzBi.845.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="Orchid_SBC_NB_PERF_Chrome_001.sdf" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="shunra.shunra" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+    <FileEntry Name="results\" Filter="1" />
+    <FileEntry Name="resultSnap\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

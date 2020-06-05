@@ -1,0 +1,13 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+t=00171993ms: ** 169: Type 5 in textbox (1) textbox ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00172357ms: ** 169: Type 5 in textbox (1) textbox ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+Notify: Transaction "Orchid_001_New_Submission - 22 - Click Save on Optional Coverages Screen" started.	[MsgId: MMSG-16999]
+t=00172871ms: ** 171: Click on Save button ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00173789ms: ** 171: Click on Save button ** successfully completed with end event 'Step synchronous network completed'    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+Notify: Transaction "Orchid_001_New_Submission - 22 - Click Save on Optional Coverages Screen" ended with a "Pass" status (Duration: 0.9250 Wasted Time: 0.2020).	[MsgId: MMSG-16871]
+Notify: Transaction "Orchid_001_New_Submission - 23 - Click Next on Optional Coverages Screen" started.	[MsgId: MMSG-16999]
+t=00174305ms: ** 172: Click on > button ** started    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00354539ms: Error -205177: ** 172: Click on > button ** timed out       Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]	[MsgId: MERR-205177]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

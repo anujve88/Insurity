@@ -1,0 +1,2 @@
+t=00119252ms: Error -205177: ** 124: Click on Please Select gridcell ** failed - target object was not found.       Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]	[MsgId: MERR-205177]
+t=00143435ms: Error -205177: ** 127: Select $1 000 000 from Please Select listbox ** failed - target object was not found.       Snapshot Info [MSH 1 1]    [MsgId: MERR-205177]	[MsgId: MERR-205177]

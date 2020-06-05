@@ -1,0 +1,255 @@
+t=00007456ms: Error -205177: InternalError: too much recursion
+Object.extendWithoutOverwrite/<@chrome://truclientrre/content/infra/StdClasses.js:50:29
+Object.extendWithoutOverwrite@chrome://truclientrre/content/infra/StdClasses.js:48:1
+window.TC_NS.Event@chrome://truclientrre/content/infra/Event.js:11:2
+window.TC_NS.RTS@chrome://truclientrre/content/infra/Settings.js:56:12
+runStep@chrome://truclientui/content/ui/sidebar.html:9290:26
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+runStep@chrome://truclientui/content/ui/sidebar.html:9357:1
+
+While calling handlers in TC_NS.RuleEngine dispatch, event=** 76: Mouse Over ** successfully completed with end event 'Action completed', handler=
+addOnetimeEventListener: type=step/end, function=function runStep(e) {
+"use strict";
+
+			    function handleCatchStep(evt) {
+			        if (evt.continueOnError)
+			            return;
+					if (evt.errorStep) {
+						step = $this._nextStep =  evt.errorStep;
+						calcNextStep();
+						step.query.addOnetimeEventListener("step/end", runStep);
+						catchStepToBeHandled = true;
+						return step.start($this);
+					}
+
+					if (e.target.level === TC_NS.Step.LEVEL_INTERNAL) {
+						return $this.end(e.retCode, {extRetInfo : e.extRetInfo} );
+					}
+					return $this.end(TC_NS.Step.RETCODE_ABORTED_FAILED, { originalErrorEvent : origErrEvent ,
+						extRetInfo : e.retCode == TC_NS.Step.RETCODE_ABORTED_FAILED ?
+							e.extRetInfo : TC_NS.Step.EXT_RET_INFO_ERROR_IN_ANOTHER_STEP } );
+				}
+
+				if (e) {
+					var actionOnError = TC_NS.RTS("RTS.TruClient.ActionOnError");
+			        if (actionOnError == 2 && e.retCode == TC_NS.Step.RETCODE_SUCCEEDED) {
+			            if( e.target.type == "block" && e.target.getAttribute("catch") ) {
+			                e.target.parentNode.childErrEvent.pop();
+			            }
+			        }
+					else if (e.retCode > TC_NS.Step.RETCODE_SUCCEEDED) {
+					    var origErrEvent = e;
+					    var catchStepToBeHandled = false;
+						while (origErrEvent.originalErrorEvent)
+							origErrEvent = origErrEvent.originalErrorEvent;
+						TC_NS.Query.addOnetimeEventListener("step/catch-step", handleCatchStep);
+						if (actionOnError == 2) {
+						    e.target.parentNode.childErrEvent.push( e.toString());
+						}
+						TC_NS.Event.dispatch("transaction/markOpenTransAsFailed", {}, { step: e.target });
+						var res = e.target.getCatchStep(origErrEvent.extRetInfo);
+						if (catchStepToBeHandled == true || actionOnError != 2) //ActionOnError is NOT continue on error
+						    return;
+					}
+					else if (e.retCode == TC_NS.Step.RETCODE_ABORTED_SUCCEEDED) {
+						var event_params = { extRetInfo : e.extRetInfo };
+						Object.extendWithoutOverwrite(event_params, e.propsObj);
+						if ( (isRunLogicTopChild($this) || isRunLogicInternalBlock($this)) && 
+						    event_params.exitTarget && event_params.exitTarget == 'Action' && 
+							event_params.exitStatus == 'Pass') {
+							// report ?
+						}
+						else {
+							return $this.end(TC_NS.Step.RETCODE_ABORTED_SUCCEEDED, event_params);
+						}
+					}
+
+					if ($this._nextStep == "INVALID") {
+
+						$this._nextStep = e.target;
+						calcNextStep(true);
+					}
+
+					var duration = TC_NS.RTS("step/duration", e.target.realStep);
+					var childStep = e.target.realStep.lastElementChild;
+					if (childStep && !duration) {
+						interStepTime = childStep.intervalStepTime;
+						childStep.intervalStepTime = 0;
+					}
+					if (duration) {
+						duration = $this.randMinTime(duration);
+						interStepTime = duration * 1000 - ((new Date()).getTime()-e.target.startTime); // (duration-executionTime)
+						e.target.realStep.intervalStepTime = interStepTime;
+					}
+				}
+
+				var step = $this._nextStep, interStepTime = interStepTime || 0;
+
+				if (!step) {
+					if (TC_NS.Script.state == TC_NS.Step.STATE_RUNNING_FROM)
+						$this.end(TC_NS.Step.RETCODE_SUCCEEDED);
+				    else if( e && e.target.parentNode.childErrEvent.length>0 )
+				        $this.notifyProgress(TC_NS.Step.PROGRESS_ACTION_COMPLETED, { retCode: TC_NS.Step.RETCODE_FAILED, extRetInfo: e.target.parentNode.childErrEvent[0] });
+					else
+						$this.notifyProgress(TC_NS.Step.PROGRESS_ACTION_COMPLETED);
+				}
+				else {
+					TC_NS.Event.dispatch("step/calc/next", step);
+					calcNextStep();
+
+					if (step.type == 'block' && step.getAttribute("catch")) {
+						if (e) return runStep(e);
+						step.query.addOnetimeEventListener("step/end", runStep);
+						step.end(TC_NS.Step.RETCODE_FAILED, { extRetInfo : "Step Misplaced" }, true);
+					}
+					else if (TC_NS.Script.state == TC_NS.Step.STATE_RUNNING_FROM) {
+						step.query.addOnetimeEventListener("step/end", runStep);
+						step.start($this, false, true);
+					}
+					else {
+						var pacing = TC_NS.RTS("step/pacing", step.realStep);
+						var pendingCause;
+						if (pacing === undefined) {
+							pacing = interStepTime;
+							pendingCause = "minTime";
+						} else {
+							if (interStepTime > pacing) {
+								pacing = interStepTime;
+								pendingCause = "minTime";
+							} else {
+								pendingCause = "pacing";
+							}
+						}
+						$this.query.addEventListener("step/abort", onAbort);
+						startTimer = setTimeout(function() {
+							$this.query.removeEventListener("step/abort", onAbort);
+							step.query.addOnetimeEventListener("step/end", runStep);
+							TC_NS.Event.dispatch("step/end/pending", step, { time: new Date().getTime() });
+							step.start($this, false, step.level != TC_NS.Step.LEVEL_INTERNAL); }, pacing);
+						TC_NS.Event.dispatch("step/start/pending", step, { ETA: pacing, cause: pendingCause,
+							time: new Date().getTime()  });
+					}
+				}
+			}       Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+t=00317269ms: Error -205177: ** 160: Select $25 000 / $25 000 from Employee Benefit Drop Down List listbox ** failed - runtime error:
+	'Text': The specified value ("$25 000 / $25 000") is invalid       Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
